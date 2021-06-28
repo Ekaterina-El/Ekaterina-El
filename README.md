@@ -1,10 +1,10 @@
 
 
 ### Hi there, I'm Ekaterina El👋
-[<img align="left" alt="codeSTACKr | YouTube" width="35px" src="https://raw.githubusercontent.com/Ekaterina-El/Ekaterina-El/master/youtube.svg" />](https://www.youtube.com/channel/UC88m-nmyByKL1VGt8rkCA2g)
-[<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://raw.githubusercontent.com/Ekaterina-El/Ekaterina-El/master/twitter.png" />](https://twitter.com/Ekaterina_Elka)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://raw.githubusercontent.com/Ekaterina-El/Ekaterina-El/master/linkedin.png" />](https://linkedin.com/)
-[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://raw.githubusercontent.com/Ekaterina-El/Ekaterina-El/master/vk.png" />](https://vk.com/k.elshina00075)
+[<img align="left" alt="Ekaterina-El | YouTube" width="35px" src="https://raw.githubusercontent.com/Ekaterina-El/Ekaterina-El/master/youtube.svg" />](https://www.youtube.com/channel/UC88m-nmyByKL1VGt8rkCA2g)
+[<img align="left" alt="Ekaterina-El | Twitter" width="35px" src="https://raw.githubusercontent.com/Ekaterina-El/Ekaterina-El/master/twitter.png" />](https://twitter.com/Ekaterina_Elka)
+[<img align="left" alt="Ekaterina-El | LinkedIn" width="35px" src="https://raw.githubusercontent.com/Ekaterina-El/Ekaterina-El/master/linkedin.png" />](https://www.linkedin.com/in/ekatarina-el-848a51215/)
+[<img align="left" alt="Ekaterina-El | Instagram" width="35px" src="https://raw.githubusercontent.com/Ekaterina-El/Ekaterina-El/master/vk.png" />](https://vk.com/k.elshina00075)
 <br />
 <br />
 
