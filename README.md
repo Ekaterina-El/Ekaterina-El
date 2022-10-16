@@ -9,7 +9,7 @@
 <br />
 
 ## I'm a Student, Runner, and Android Developer!!
-- 🥅 2021 Goals: Become a full-fledged Android developer
+- 🥅 2023 Goals: Become a full-fledged Android developer
 - ⚡ Fun fact: I love long distance running :running: and read a lot :books:
 
 
